@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Armani Johnson 💻 </h1>
 
-<!--
-**Armanchi/Armanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Software Developer </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.linkedin.com/in/armani-d-johnson/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armani-d-johnson/"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###🤔 About
+-  **Working :** Web Development 💻 
+-  **Learning :** React ⚛️  
+-  **Hobbies :** Books/Manga 📚 | Music 🎧 | Movies 🎞️
+-  **Fun fact :** I'm an avid convention attender and kpop lover ✌🏾
+-  **Pronouns :** She/ Her 😇
+
+### 📊 Profile stats
+
+[![Armanchi's github stats](https://github-readme-stats.vercel.app/api?username=Armanchi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)
