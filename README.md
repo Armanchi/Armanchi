@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/armani-d-johnson/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Armani_Johnson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armani-d-johnson/"></a>
 </p>
 
-###🤔 About
+### 🤔 About
 -  **Working :** Web Development 💻 
 -  **Learning :** React ⚛️  
 -  **Hobbies :** Books/Manga 📚 | Music 🎧 | Movies 🎞️
