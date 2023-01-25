@@ -3,7 +3,7 @@
 <h3 align="center"> Software Developer </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/armani-d-johnson/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armani-d-johnson/"></a>
+<a href="https://www.linkedin.com/in/armani-d-johnson/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Armani_Johnson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armani-d-johnson/"></a>
 </p>
 
 ###🤔 About
