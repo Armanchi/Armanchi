@@ -9,7 +9,7 @@
 ### 🤔 About
 -  **Working :** Web Development 💻 
 -  **Learning :** React ⚛️  
--  **Hobbies :** Books/Manga 📚 | Music 🎧 | Movies 🎞️
+-  **Hobbies :** Books 📚 | Music 🎧 | Movies 🎞️ 
 -  **Fun fact :** I'm an avid convention attender and kpop lover ✌🏾
 -  **Pronouns :** She/ Her 😇
 
