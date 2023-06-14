@@ -10,7 +10,7 @@
 -  **Working :** Web Development 💻 
 -  **Learning :** React ⚛️  
 -  **Hobbies :** Books 📚 | Music 🎧 | Movies 🎞️ 
--  **Fun fact :** I'm an avid convention attender and kpop lover ✌🏾
+-  **Fun fact :** I'm an avid convention attender
 -  **Pronouns :** She/ Her 😇
 
 ### 📊 Profile stats
