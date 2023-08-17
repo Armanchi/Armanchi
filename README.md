@@ -8,7 +8,7 @@
 
 ### 🤔 About
 -  **Working :** Web Development 💻 
--  **Learning :** Java  
+-  **Learning :** Java☕
 -  **Hobbies :** Books 📚 | Music 🎧 | Movies 🎞️ | Crochet 🪡
 -  **Fun fact :** I'm an avid convention attender
 -  **Pronouns :** She/ Her 😇
