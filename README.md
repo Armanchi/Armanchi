@@ -8,8 +8,8 @@
 
 ### 🤔 About
 -  **Working :** Web Development 💻 
--  **Learning :** React ⚛️  
--  **Hobbies :** Books 📚 | Music 🎧 | Movies 🎞️ 
+-  **Learning :** Java  
+-  **Hobbies :** Books 📚 | Music 🎧 | Movies 🎞️ | Crochet 🪡
 -  **Fun fact :** I'm an avid convention attender
 -  **Pronouns :** She/ Her 😇
 
